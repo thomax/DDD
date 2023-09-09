@@ -35,11 +35,11 @@ Want to play an elf? Sure you do! Here's how races work. Check the table below, 
 | Halfling | +2 sly    | -2 combat | Small |
 | Human    | +1 any    | -1 any    | -          |
 | Orc      | +2 combat | -2 magic  | Tough      |
-| Robot    | +2 combat | -2 sly    | Healthy    |
+| Robot    | +2 combat | -2 sly    | Iron health    |
 
 
 ## Experience
-Each game night, all PCs present gain one point at the start of 
+Each game night, all PCs present gain one `XP` at the start of the session and another point of `XP` at the end of the session.
 
 ## Hit Points (HP)
 `HP` = `XP` * 5. Your `HP` equals the number of `XP` a character has gained, times 5. E.g. 20 experience points = 100 HP.
@@ -100,7 +100,7 @@ Declare who/what you want to attack. The GM decalares what the `Difficulty` is (
 
 ## Abilities
 
-There are abilities, you can get these from your `race` (see above), or buy them for `XP` (WIP, more to come on this). These can stack, apply instances cumulatively, e.g. `Fast 3` bestows +6 `move`.
+There are abilities, you can get these from your `race` (see above), or buy them for `XP` (WIP, more to come on this). Abilities stack, apply instances cumulatively, e.g. `Hardy 3` bestows +15 `defense`.
 
 | Ability      | Explanation |
 |--------------|-------------|
