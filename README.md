@@ -142,5 +142,6 @@ There are naturally magic items to get! Here are some examples:
 | Bag of Holding     | A magic bag which can hold up to 1000 kg or up to 1000 liters of content. Content must fit into an opening of 50 cm|
 | Nightvision goggles| You gain the `Nightvision` ability, but can only see shades of gray colors |
 
-
+## Monsters
+Coming soon
 
