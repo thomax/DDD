@@ -33,7 +33,7 @@ Want to play an elf? Sure you do! Here's how races work. Check the table below, 
 | Goblin   | +2 sly    | -2 magic  | Small, goldnose, ugly |
 | Grootish | +2 combat | -2 magic  | Hardy          |
 | Halfling | +2 sly    | -2 combat | Small |
-| Human    | +1 any    | -1 any    | -          |
+| Human    | +1 any    | -1 any    | Lucky         |
 | Orc      | +2 combat | -2 magic  | Tough      |
 | Robot    | +2 combat | -2 sly    | Iron health    |
 
@@ -118,6 +118,7 @@ There are abilities, you can get these from your `race` (see above), or buy them
 | Iron fist    | +4 when attacking without a weapon  |
 | Just ate     | Your nourished as if you just ate a nice meal |
 | Large        | +1 `move`, +4 when attacked |
+| Lucky        | 1/day reroll a d20 if you're unhappy with the result. You must take the second roll.|
 | Nightvision  | Can see in the dark |
 | Slow         | -2 `move`  |
 | Small        | -1 `move`, -4 when attacked |
