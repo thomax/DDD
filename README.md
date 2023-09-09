@@ -122,6 +122,7 @@ There are abilities, you can get these from your `race` (see above), or buy them
 | Slow         | -2 `move`  |
 | Small        | -1 `move`, -4 when attacked |
 | Tough        | `HP` = `XP` * 6 (not *5) |
+| Ugly         | -10 on social interactions|
 
 ## Magic/spells
 Works the same way as `Doing stuff`: Declare what you want to do --> GM declares difficulty -> Roll d20 and add `Magic` stat --> resolve what happens depending on success or failure.
