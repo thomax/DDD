@@ -45,7 +45,7 @@ Each game night, all PCs present gain one `XP` at the start of the session and a
 `HP` = `XP` * 5. Your `HP` equals the number of `XP` a character has gained, times 5. E.g. 20 experience points = 100 HP.
 
 ## Defense
-`Defense` reduces the amount of damage received. Say you have 5 defense and a troll hits you for 21 damage: 21 - 5 = 16 damage taken. A PC has 0 defense, but armor up to improve:
+`Defense` reduces the amount of damage received. E.g. you have 5 defense and a troll hits you for 23 damage: 23 - 5 = 18 damage taken. A PC has 0 defense, but can armor up to improve:
 
 | Gear           | Bonus |
 |----------------|:-----:|
@@ -93,10 +93,10 @@ Declare who/what you want to attack. The GM decalares what the `Difficulty` is (
 | Greatsword     | 8     | 2h      |
 | Maul           | 7     | 2h      |
 | Spear          | 5     | 2h      |
-| Flintlock pistol | 3     | 1h, r50|
-| Shortbow       | 2     | 2h, r100|
-| Longbow        | 4     | 2h, r300|
-| Crossbow       | 5     | 2h, r150|
+| Flintlock pistol | 3   | 1h, range 50|
+| Shortbow       | 2     | 2h, range 100|
+| Longbow        | 4     | 2h, range 300|
+| Crossbow       | 5     | 2h, range 150|
 
 ## Abilities
 
@@ -104,27 +104,27 @@ There are abilities, you can get these from your `race` (see above), or buy them
 
 | Ability      | Effect |
 |--------------|-------------|
-| Large        | +1 `move`, +4 when attacked |
-| Small        | -1 `move`, -4 when attacked |
-| Tough        | `HP` = `XP` * 6 (not *5) |
-| Goldnose     | Can sniff out gold withing 30 meters |
-| Hardy        | +5 `defense`  |
-| Nightvision  | Can see in the dark |
-| Fast         | +2 `move`  |
-| Slow         | -2 `move`  |
+| Alert        | +10 perception |
+| Bouncy       | +10 jump  |
 | Crit attack  | Attacks bypass target defense |
 | Extra attack | +1 number of attacks each round  |
-| Hidey        | +10 hide  |
-| Bouncy       | +10 jump  |
+| Fast         | +2 `move`  |
+| Goldnose     | Can sniff out gold withing 30 meters |
+| Hardy        | +5 `defense`  |
 | Healer       | Can heal a number of `HP` equal to your own `XP` |
-| Just ate     | Your nourished as if you just ate a nice meal |
+| Hidey        | +10 hide  |
 | Iron belly   | Ignore most poison |
 | Iron health  | Ignore most diseases  |
-| Alert        | +10 perception |
 | Iron fist    | +4 when attacking without a weapon  |
+| Just ate     | Your nourished as if you just ate a nice meal |
+| Large        | +1 `move`, +4 when attacked |
+| Nightvision  | Can see in the dark |
+| Slow         | -2 `move`  |
+| Small        | -1 `move`, -4 when attacked |
+| Tough        | `HP` = `XP` * 6 (not *5) |
 
 ## Magic/spells
-Works the same way as `Doing stuff`: Declare what you want to do --> GM declares difficulty -> d20 + stat --> resolve what happens depending on success or failure.
+Works the same way as `Doing stuff`: Declare what you want to do --> GM declares difficulty -> Roll d20 and add `Magic` stat --> resolve what happens depending on success or failure.
 
 ## Magic items
 There are naturally magic items to get! Here are some examples:
@@ -143,5 +143,5 @@ There are naturally magic items to get! Here are some examples:
 | Nightvision goggles| You gain the `Nightvision` ability, but can only see shades of gray colors |
 
 ## Monsters
-Coming soon
+Examples coming soon
 
