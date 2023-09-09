@@ -14,11 +14,11 @@ There are 3 stats: `Magic`, `Slic` and `Combic`.
 ## Create a character
 A player character (PC) starts out with 20 experience points (`XP`). These are divide freely between the three stats. Depending on how these are split, you get different "class" or "archetypes". Mix however you like, or go with one of these examples:
 
-| Stat   | Barbaris | Trickster | Hypnoticos | Pistolero | Wizard  | The guy |
-|--------|:--------:|:---------:|:----------:|:---------:|:-------:|:-------:|
-| `Magic`  | 0        | 9         | 13         | 3         | 15      | 6       |
-| `Slic`    | 5        | 14        | 10         | 7         | 2       | 7       |
-| `Combic` | 15       | 7         | 7          | 12        | 3       | 7       |
+| Stat    | Barbaris | Trickster | Hypnoticos | Pistolero | Wizard  | The guy |
+|---------|:--------:|:---------:|:----------:|:---------:|:-------:|:-------:|
+| `Magic` | 0        | 2         | 10         | 3         | 15      | 6       |
+| `Slic`  | 5        | 14        | 7          | 6         | 2       | 7       |
+| `Combic`| 15       | 4         | 3          | 11        | 3       | 7       |
 
 
 ## Race
