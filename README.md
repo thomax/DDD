@@ -102,7 +102,7 @@ Declare who/what you want to attack. The GM decalares what the `Difficulty` is (
 
 There are abilities, you can get these from your `race` (see above), or buy them for `XP` (WIP, more to come on this). Abilities stack, apply instances cumulatively, e.g. `Hardy 3` bestows +15 `defense`.
 
-| Ability      | Explanation |
+| Ability      | Effect |
 |--------------|-------------|
 | Large        | +1 `move`, +4 when attacked |
 | Small        | -1 `move`, -4 when attacked |
