@@ -93,6 +93,7 @@ Declare who/what you want to attack. The GM decalares what the `Difficulty` is (
 | Greatsword     | 8     | 2h      |
 | Maul           | 7     | 2h      |
 | Spear          | 5     | 2h      |
+| Flintlock pistol | 3     | 1h, r50|
 | Shortbow       | 2     | 2h, r100|
 | Longbow        | 4     | 2h, r300|
 | Crossbow       | 5     | 2h, r150|
@@ -131,11 +132,13 @@ There are naturally magic items to get! Here are some examples:
 | Item      | Effect |
 |--------------|-------------|
 | Magic sword  | +3 `combic` when wielded, 1/encounter gain the `Crit attack` abilty |
+| Enchanted pistol    | +3 `combic`, on hit pushes target backwards |
 | Magic shield  | +3 `defense` when wielded |
 | Magic garb    | +3 `defense` when worn, can apply to armor or clothes |
 | Ring of Protection | You gain the `Hardy` ability |
 | Ring of Jumping    | You gain the `Bouncy 2` ability (i.e. +20 jump)|
 | Amulett of Fire    | All attacks (spells or combat) deal 5 extra damage which bypasses defense|
+| Flying carpet    | Flies at a speed of 10 with up to 400 kg load. Can move vertically, controlled mentally by the owner|
 | Bag of Holding     | A magic bag which can hold up to 1000 kg or up to 1000 liters of content. Content must fit into an opening of 50 cm|
 | Nightvision goggles| You gain the `Nightvision` ability, but can only see shades of gray colors |
 
