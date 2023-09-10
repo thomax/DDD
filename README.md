@@ -150,6 +150,7 @@ There are naturally magic items to get! Here are some examples:
 Some monster examples to get you started
 
 ### Goblin
+
 | Stat      | Effect|
 |-----------|--------|
 | `Magic`   | 0   |
@@ -161,6 +162,7 @@ Some monster examples to get you started
 | `Special` | `Hidey`. Goblins are cowards unless the outnumber their enemies at least 2:1 |
 
 ### Goblin shaman
+
 | Stat      | Effect|
 |-----------|--------|
 | `Magic`   | 10   |
@@ -172,6 +174,7 @@ Some monster examples to get you started
 | `Special` | `Hidey`. Goblins are cowards unless the outnumber their enemies at least 2:1  |
 
 ### Troll
+
 | Stat      | Effect|
 |-----------|--------|
 | `Magic`   | 0   |
@@ -183,6 +186,7 @@ Some monster examples to get you started
 | `Special` | `Large`. `Alert`. Turned permanently to stone by sunlight. |
 
 ### Black dragon
+
 | Stat      | Effect|
 |-----------|--------|
 | `Magic`   | 10   |
@@ -194,6 +198,7 @@ Some monster examples to get you started
 | `Special` | `Large 2`. `Goldnose 5`. Special attack: Acid breath, 10m cone |
 
 ### Diaper demon
+
 | Stat      | Effect|
 |-----------|--------|
 | `Magic`   | 7   |
