@@ -159,7 +159,7 @@ Some monster examples to get you started
 | `HP`      | 30   |
 | `Defense` | 5   |
 | `Move`    | 3   |
-| `Special` | `Hidey`. Goblins are cowards unless the outnumber their enemies at least 2:1 |
+| `Special` | `Hidey`. Goblins are cowards unless they outnumber their enemies at least 2:1 |
 
 ### Goblin shaman
 
@@ -171,7 +171,7 @@ Some monster examples to get you started
 | `HP`      | 50   |
 | `Defense` | 3   |
 | `Move`    | 3   |
-| `Special` | `Hidey`. Goblins are cowards unless the outnumber their enemies at least 2:1  |
+| `Special` | `Hidey`. Goblins are cowards unless they outnumber their enemies at least 2:1  |
 
 ### Troll
 
