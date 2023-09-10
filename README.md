@@ -12,7 +12,7 @@ There are 3 stats: `Magic`, `Slic` and `Combic`.
 
 
 ## Create a character
-A player character (PC) starts out with 20 experience points (`XP`). These are divide freely between the three stats. Depending on how these are split, you get different "class" or "archetypes". Mix however you like, or go with one of these examples:
+A player character (PC) starts out with 20 experience points (`XP`). These points are divided freely between the three stats. Depending on how these are split, you get a different "class" or "archetype". Mix however you like, or go with one of these examples:
 
 | Stat    | Barbaris | Trickster | Hypnoticos | Pistolero | Wizard  | Joe |
 |---------|:--------:|:---------:|:----------:|:---------:|:-------:|:-------:|
@@ -59,10 +59,10 @@ Each game session, all PCs present gain one `XP` at the and another point of `XP
 * relative to body size
 
 ## Movement
-A character can move 5. Five what? Exactly. If you want to use a battlemap for tactical combat, `move` represents the number of squares a PC can move per round. If you really need to translate that number to meters, a move of 5 equals 15 meters of movement.
+A character can move 5. Five what? Exactly. If you want to use a battlemap for tactical combat, `move` represents the number of squares a PC can move per round. If you really need to translate that number to meters, multiply `move` value by 3 to get meters.
 
 ## Doing stuff
-When it's your turn you can do one thing, e.g. move, attack, cast a spell, hide behind a bush, etc. Declare what the PC wants to do. The GM decalares what the `Difficulty` is (see table below for guidance). You roll a d20 and add the appropriate stat value (`Magic`, `Slic` or `Combic`). If the total is equal or higher to the `difficulty`, it was a success. If you roll 20, it was an extraordinary success.
+When it's your turn you can do one thing, e.g. move, attack, cast a spell, hide behind a bush, etc. Declare what the PC wants to do. The GM decalares what the `Difficulty` is (see table below for guidance). You roll a d20 and add the appropriate stat value (`Magic`, `Slic` or `Combic`). If the total is equal or higher to the `difficulty`, it's a success. If you roll 20, it's an extraordinary success.
 
 | Description       | Difficulty |
 |-------------------|:----------:|
@@ -78,7 +78,7 @@ When it's your turn you can do one thing, e.g. move, attack, cast a spell, hide 
 | Impossible        | 50         | 
 
 ## Combat
-Declare who/what you want to attack. The GM decalares what the `Difficulty` is (see the Doing stuff table). As a default, hitting somebody is "A bit tricky". You roll a d20 and add the `Combic` value and your weapon bonus. If the total is below the difficulty, you miss. If it's greater or equal, the total number is also the damage you deal to your enemy.
+Declare who/what you want to attack. The GM decalares what the `Difficulty` is (see the Doing stuff table). As a default, hitting somebody is "A bit tricky". You roll a d20 and add your `Combic` value and your weapon bonus. If the total is below the `difficulty`, you miss. If it's greater or equal, the total number is also the damage you deal to your enemy.
 
 | Weapon         | Bonus | Special |
 |----------------|:-----:| ------- |
@@ -127,12 +127,12 @@ You get abilities from your `race` (see above), or buy them for `XP` (WIP, more 
 | Ugly         | -10 on social interactions|
 
 ## Magic/spells
-Works the same way as `Doing stuff`: Declare what you want to do --> GM declares difficulty -> Roll d20 and add `Magic` stat --> resolve what happens depending on success or failure.
+Works the same way as `Doing stuff`. Declare what you want to do --> GM declares difficulty -> Roll d20 and add `Magic` stat --> resolve what happens depending on success or failure.
 
 ## Magic items
-There are naturally magic items to get! Here are some examples:
+There are naturally magic items! Here are some examples:
 
-| Item      | Effect |
+| Item         | Effect |
 |--------------|-------------|
 | Magic sword  | +3 `combic` when wielded, 1/encounter gain the `Crit attack` abilty |
 | Enchanted pistol    | +3 `combic`, on hit pushes target backwards |
