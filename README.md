@@ -39,7 +39,7 @@ Want to play an elf? Sure you do! Here's how races work. Check the table below, 
 
 
 ## Experience
-Each game session, all PCs present gain one `XP` at the and another point of `XP` at the end of the session.
+Each game session, all PCs present gain one point of `XP` at session start, and another point of `XP` at the end of the session.
 
 ## Hit Points (HP)
 `HP` = `XP` * 5. Your `HP` equals the number of `XP` a character has gained, multiplied by 5. E.g. 20 `XP` would result in a character with 100 `HP`.
