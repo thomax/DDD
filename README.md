@@ -209,4 +209,37 @@ Some monster examples to get you started
 | `Move`    | 9   |
 | `Special` | `Large`. Special attack: Fling blotches of poo which poisons all creatures in a 10m diameter circle.|
 
+### Rust Monster
+| Stat | Effect     |
+|-----------|-----------|
+| `Magic`     | 1         |
+| `Slic`      | 10        |
+| `Combic`    | 5         |
+| `HP`        | 80        |
+| `Defense`   | 5         |
+| `Move`      | 5         |
+| `Special`   | `Metal Detection` (senses metal within 20 meters), `Antennae Touch` (disintegrates metal) |
+
+### Mimic
+| Stat | Effect     |
+|-----------|-----------|
+| `Magic`     | 5         |
+| `Slic`      | 15       |
+| `Combic`    | 10         |
+| `HP`        | 120        |
+| `Defense`   | 5         |
+| `Move`      | 3         |
+| `Special`   | `Shapechange` (assume form of any inanimate object) |
+
+### Minotaur
+| Stat | Effect     |
+|-----------|-----------|
+| `Magic`     | 0         |
+| `Slic`      | 5       |
+| `Combic`    | 20         |
+| `HP`        | 180        |
+| `Defense`   | 10         |
+| `Move`      | 6         |
+| `Special`   | `Charge` (if able to move 5 in a straight line, double move and attack with bonus +5) |
+
 
