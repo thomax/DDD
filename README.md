@@ -210,6 +210,7 @@ Some monster examples to get you started
 | `Special` | `Large`. Special attack: Fling blotches of poo which poisons all creatures in a 10m diameter circle.|
 
 ### Rust Monster
+
 | Stat | Effect     |
 |-----------|-----------|
 | `Magic`     | 1         |
@@ -221,6 +222,7 @@ Some monster examples to get you started
 | `Special`   | `Metal Detection` (senses metal within 20 meters), `Antennae Touch` (disintegrates metal) |
 
 ### Mimic
+
 | Stat | Effect     |
 |-----------|-----------|
 | `Magic`     | 5         |
@@ -232,6 +234,7 @@ Some monster examples to get you started
 | `Special`   | `Shapechange` (assume form of any inanimate object) |
 
 ### Minotaur
+
 | Stat | Effect     |
 |-----------|-----------|
 | `Magic`     | 0         |
